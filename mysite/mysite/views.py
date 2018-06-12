@@ -2,8 +2,6 @@ from django.shortcuts import render
 
 # Create your views here.
 
-def blog_list(request):
+def home(request):
     pass
 
-def blog_detail(request,blog_id):
-    pass
